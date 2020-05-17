@@ -14,7 +14,8 @@ https://trec.nist.gov/trec_eval/
 
 # Files
 
-1. This code contains 3 files 
+1. This code contains 3 files.
+
 a) Main.ipynb- It contains all the main codes and models.
 b) Trec_evalutaion.ipynb- It contains the code to evaluate result and all the results are here.
 c) Readme- This is the file.
