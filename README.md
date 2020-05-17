@@ -11,11 +11,11 @@ Identifying relevant prior cases on case docs of Supreme Court Of India
 
 https://github.com/jhlau/doc2vec
 
-4. This code is tested using tec evalutaion tool. To download it go to website:
+4.This code is tested using tec evalutaion tool. To download it go to website:
 
 https://trec.nist.gov/trec_eval/
 
-5. Now the installation procedure is available in Trec_evaluation.ipynb file.
+5.Now the installation procedure is available in Trec_evaluation.ipynb file.
 
 # Files
 
