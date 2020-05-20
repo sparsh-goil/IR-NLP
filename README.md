@@ -9,12 +9,11 @@ Identifying relevant prior cases on case docs of Supreme Court Of India
 3. This code uses a forked version of gensim. Download the repo from below link and all the installation procedure is available there: https://github.com/jhlau/doc2vec
 
 4. This code is tested using tec evalutaion tool. To download it go to website:  https://trec.nist.gov/trec_eval/
-
 5. Now the installation procedure is available in Trec_evaluation.ipynb file.
 
 # Files
 
-1. This code contains 3 files.
+This code contains 3 files.
 
 a) Main.ipynb- It contains all the main codes and models.
 
