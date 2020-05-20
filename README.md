@@ -13,6 +13,6 @@ Identifying relevant prior cases on case docs of Supreme Court Of India
 
 This code contains 3 files.
 
-a) Main.ipynb- It contains all the main codes and models.
-b) Trec_evalutaion.ipynb- It contains the code to evaluate result and all the results are here.
-c) Readme- This is the file.
+a) Main.ipynb- It contains all the main codes and models.\
+b) Trec_evalutaion.ipynb- It contains the code to evaluate result and all the results are here.\
+c) Readme- This is the file.\
